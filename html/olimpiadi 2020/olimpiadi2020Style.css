@@ -12,8 +12,13 @@ thead{
 
 table {
     text-align: center;
+    border-collapse: collapse;
 }
 
+th , td {
+    border: 1px solid;
+    border-color: rgb(70, 190, 150);
+  }
 
 tbody tr:nth-child(even)
 {
