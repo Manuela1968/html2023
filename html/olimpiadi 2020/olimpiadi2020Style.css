@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(199, 225, 216);
+    color: #222;
+    line-height: 24px;
+    font-size: 16px;
+}
+
+thead{
+    background-color: rgb(112, 200, 169);
+}
+
+.vincitore
+{
+    font-weight: bold;
+    font-size: 17px;
+    color: #a71515;
+}
+
+.rigapari
+{
+    background-color: rgb(187, 183, 183);
+}
+
+h1 
+{
+    text-align: center;
+}
+
+.centra
+{
+    text-align: center;
+}

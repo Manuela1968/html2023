@@ -1,0 +1,25 @@
+body {
+    background-color: lightpink;
+    color :rgb(87, 20, 95);
+}
+
+h1 , h2 
+{
+    color : blueviolet;
+}
+
+.testoEvidenziato 
+{
+    background-color: rgb(240, 144, 187);
+}
+
+.testoGrassetto 
+{
+    font-weight: bold;
+}
+
+#mascotte
+{
+    font-style: italic;
+    font-weight: bold;
+}
