@@ -1,0 +1,61 @@
+
+html, body{
+    margin: 0;
+    background-color: lightgray;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+
+.fullwidthcontainer{
+    margin: 0;
+}
+
+.header{
+background-color: black;
+color: white;
+font-size: 1.5rem;
+}
+
+.container{
+    width: 80%;
+    max-width: 500px;
+    margin : 0 auto;
+    padding: 1rem;
+}
+
+.main {
+    background-color: azure;
+    padding: 1rem;
+}
+
+.footer{
+    background-color: aqua;
+    font-size: 0.8rem;
+    color: blueviolet;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+.yellow {
+    background-color: yellow;
+}
+.blue {
+    background-color: blue;
+}
+.red {
+    background-color: red;
+}
+.w33{
+     width: 33,33%;
+     float: left;
+}
+
+.box {
+    height: 100spx;
+    margin: 0 1%;
+    border: 1px solid;
+}
+
+.clear {
+    clear: both;}
